@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Demo 4- Suite,,,2018-07-25 11:49:41,2018-07-25 11:50:08,26.750s,INCOMPLETE
+,,,,,,
+Test Cases/Day 2_Traing/Demo 4,,demo,2018-07-25 11:49:41,2018-07-25 11:50:08,26.487s,FAILED
+openBrowser,,,2018-07-25 11:49:42,2018-07-25 11:50:08,26.239s,FAILED

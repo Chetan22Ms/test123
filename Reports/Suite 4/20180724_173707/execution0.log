@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-07-24T17:37:08</date>
+  <millis>1532434028476</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Suite 4</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Suite 4</property>
+  <property name="description">Recoder</property>
+  <property name="id">Test Suites/Suite 4</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:08</date>
+  <millis>1532434028495</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;slk - WSLK1FFTRFW-11&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">slk - WSLK1FFTRFW-11</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:08</date>
+  <millis>1532434028496</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 7 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 7 64bit</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:08</date>
+  <millis>1532434028496</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.10.10.20&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.10.10.20</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:08</date>
+  <millis>1532434028498</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;5.5.0.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">5.5.0.1</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:08</date>
+  <millis>1532434028744</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Katalon Recoder 1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Katalon Recoder 1</property>
+  <property name="description">Record option</property>
+  <property name="id">Test Cases/Katalon Recoder 1</property>
+  <property name="source">C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Test Cases\\Katalon Recoder 1.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:08</date>
+  <millis>1532434028768</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:09</date>
+  <millis>1532434029152</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">31</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:09</date>
+  <millis>1532434029425</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:09</date>
+  <millis>1532434029430</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:09</date>
+  <millis>1532434029474</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:40</date>
+  <millis>1532434060756</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;a4a73619-f461-41d1-acf1-bc6b78ba8655&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">a4a73619-f461-41d1-acf1-bc6b78ba8655</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:40</date>
+  <millis>1532434060796</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;browser&amp;apos; with value &amp;apos;Firefox 60.0&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 60.0</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:40</date>
+  <millis>1532434060797</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;platform&amp;apos; with value &amp;apos;Windows 7&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 7</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:40</date>
+  <millis>1532434060814</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;seleniumVersion&amp;apos; with value &amp;apos;3.7.1&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:40</date>
+  <millis>1532434060830</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;proxyInformation&amp;apos; with value &amp;apos;ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:40</date>
+  <millis>1532434060830</millis>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigating browser to: &amp;apos;https://www.katalon.com/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:48</date>
+  <millis>1532434068967</millis>
+  <sequence>18</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;https://www.katalon.com/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:48</date>
+  <millis>1532434068968</millis>
+  <sequence>19</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:48</date>
+  <millis>1532434068968</millis>
+  <sequence>20</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - driver = com.kms.katalon.core.webui.driver.DriverFactory.getWebDriver()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:49</date>
+  <millis>1532434069014</millis>
+  <sequence>21</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - driver = com.kms.katalon.core.webui.driver.DriverFactory.getWebDriver()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:49</date>
+  <millis>1532434069014</millis>
+  <sequence>22</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - baseUrl = \&amp;quot;https://www.katalon.com/\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:49</date>
+  <millis>1532434069014</millis>
+  <sequence>23</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - baseUrl = \&amp;quot;https://www.katalon.com/\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:49</date>
+  <millis>1532434069014</millis>
+  <sequence>24</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">34</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:49</date>
+  <millis>1532434069084</millis>
+  <sequence>25</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:49</date>
+  <millis>1532434069085</millis>
+  <sequence>26</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - selenium.open(\&amp;quot;https://www.katalon.com/sign-up/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">35</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:50</date>
+  <millis>1532434070490</millis>
+  <sequence>27</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - selenium.open(\&amp;quot;https://www.katalon.com/sign-up/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:50</date>
+  <millis>1532434070491</millis>
+  <sequence>28</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - selenium.type(\&amp;quot;id=user_login\&amp;quot;, \&amp;quot;svgsfg\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">36</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:50</date>
+  <millis>1532434070568</millis>
+  <sequence>29</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - selenium.type(\&amp;quot;id=user_login\&amp;quot;, \&amp;quot;svgsfg\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:50</date>
+  <millis>1532434070569</millis>
+  <sequence>30</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - selenium.click(\&amp;quot;id=user_email\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:50</date>
+  <millis>1532434070826</millis>
+  <sequence>31</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - selenium.click(\&amp;quot;id=user_email\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:50</date>
+  <millis>1532434070827</millis>
+  <sequence>32</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - selenium.type(\&amp;quot;id=user_email\&amp;quot;, \&amp;quot;drgh\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">38</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:50</date>
+  <millis>1532434070882</millis>
+  <sequence>33</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - selenium.type(\&amp;quot;id=user_email\&amp;quot;, \&amp;quot;drgh\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:50</date>
+  <millis>1532434070882</millis>
+  <sequence>34</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - selenium.click(\&amp;quot;id=user_pass\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">39</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:51</date>
+  <millis>1532434071124</millis>
+  <sequence>35</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - selenium.click(\&amp;quot;id=user_pass\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:51</date>
+  <millis>1532434071124</millis>
+  <sequence>36</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - selenium.type(\&amp;quot;id=user_pass\&amp;quot;, \&amp;quot;ethyet\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">40</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:51</date>
+  <millis>1532434071182</millis>
+  <sequence>37</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - selenium.type(\&amp;quot;id=user_pass\&amp;quot;, \&amp;quot;ethyet\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:51</date>
+  <millis>1532434071182</millis>
+  <sequence>38</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - selenium.click(\&amp;quot;id=signup-btn\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">41</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2018-07-24T17:37:51</date>
+  <millis>1532434071428</millis>
+  <sequence>39</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - selenium.click(\&amp;quot;id=signup-btn\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:51</date>
+  <millis>1532434071429</millis>
+  <sequence>40</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Katalon Recoder 1</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:51</date>
+  <millis>1532434071429</millis>
+  <sequence>41</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Katalon Recoder 1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-07-24T17:37:51</date>
+  <millis>1532434071709</millis>
+  <sequence>42</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Suite 4</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

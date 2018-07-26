@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Day 2" time="55" tests="0" failures="1" errors="1">
+   <testsuite name="Day 2" tests="0" failures="1" errors="1" time="55" timestamp="2018-07-25 11:16:51" hostname="slk - WSLK1FFTRFW-11" id="Test Suites/Day 2/Day 2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Day 2\\Day 2\\20180725_111650"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Day 2\\Day 2\\20180725_111650\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Day 2\\Day 2\\20180725_111650\\1532497665819.png"/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-11"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.10.10.20"/>
+         <property name="sessionId" value="f6406ef150450c03df9e8cb01cb155ab"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Day 2_Traing/Demo1_Day2" classname="Test Cases/Day 2_Traing/Demo1_Day2" status="ERROR">
+         <error type="ERROR" message="Test Cases/Day 2_Traing/Demo1_Day2 FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)"/>
+         <system-out><![CDATA[2018-07-25 11:16:52 - [TEST_CASE][ERROR] - Test Cases/Day 2_Traing/Demo1_Day2: Test Cases/Day 2_Traing/Demo1_Day2 FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)
+
+2018-07-25 11:16:52 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 11:17:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 11:17:16 - [TEST_STEP][PASSED] - navigateToUrl: null]]></system-out>
+         <system-err><![CDATA[2018-07-25 11:16:52 - [TEST_CASE][ERROR] - Test Cases/Day 2_Traing/Demo1_Day2: Test Cases/Day 2_Traing/Demo1_Day2 FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Day 2_Traing/Demo2" classname="Test Cases/Day 2_Traing/Demo2" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Demo 2/Page_OrangeHRM/div_Username' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element &lt;div id=&quot;divUsername&quot; class=&quot;textInputContainer&quot;>...&lt;/div> is not clickable at point (520, 270). Other element would receive the click: &lt;div id=&quot;logInPanelHeading&quot;>...&lt;/div>
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-11', ip: '10.10.10.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\SLKWSL~1.002\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: f6406ef150450c03df9e8cb01cb155ab)"/>
+         <system-out><![CDATA[2018-07-25 11:17:16 - [TEST_CASE][FAILED] - Test Cases/Day 2_Traing/Demo2: Test Cases/Day 2_Traing/Demo2 FAILED because (of) Unable to click on object 'Object Repository/Demo 2/Page_OrangeHRM/div_Username' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div id="divUsername" class="textInputContainer">...</div> is not clickable at point (520, 270). Other element would receive the click: <div id="logInPanelHeading">...</div>
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-11', ip: '10.10.10.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\SLKWSL~1.002\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: f6406ef150450c03df9e8cb01cb155ab)
+
+2018-07-25 11:17:16 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 11:17:16 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 11:17:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 11:17:40 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 11:17:45 - [MESSAGE][PASSED] - Navigate to 'http://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 11:17:45 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Demo 2/Page_OrangeHRM/div_Username' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div id="divUsername" class="textInputContainer">...</div> is not clickable at point (520, 270). Other element would receive the click: <div id="logInPanelHeading">...</div>
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-11', ip: '10.10.10.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\SLKWSL~1.002\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: f6406ef150450c03df9e8cb01cb155ab)
+
+2018-07-25 11:17:46 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Demo 2/Page_OrangeHRM/div_Username' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div id="divUsername" class="textInputContainer">...</div> is not clickable at point (520, 270). Other element would receive the click: <div id="logInPanelHeading">...</div>
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-11', ip: '10.10.10.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\SLKWSL~1.002\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: f6406ef150450c03df9e8cb01cb155ab)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Day 2\\Day 2\\20180725_111650\\1532497665819.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 11:17:16 - [TEST_CASE][FAILED] - Test Cases/Day 2_Traing/Demo2: Test Cases/Day 2_Traing/Demo2 FAILED because (of) Unable to click on object 'Object Repository/Demo 2/Page_OrangeHRM/div_Username' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div id="divUsername" class="textInputContainer">...</div> is not clickable at point (520, 270). Other element would receive the click: <div id="logInPanelHeading">...</div>
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-11', ip: '10.10.10.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\SLKWSL~1.002\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: f6406ef150450c03df9e8cb01cb155ab)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 11:16:51 - [TEST_SUITE][ERROR] - Day 2: Test Cases/Day 2_Traing/Demo1_Day2 FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)]]></system-out>
+      <system-err><![CDATA[2018-07-25 11:16:51 - [TEST_SUITE][ERROR] - Day 2: Test Cases/Day 2_Traing/Demo1_Day2 FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)]]></system-err>
+   </testsuite>
+</testsuites>

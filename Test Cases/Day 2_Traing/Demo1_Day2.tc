@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Demo1_Day2</name>
+   <tag>Ketalon</tag>
+   <comment></comment>
+   <testCaseGuid>1fa9a519-b51e-437e-927e-b2f1baa302b8</testCaseGuid>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/'</defaultValue>
+      <description></description>
+      <id>885f4b65-48cb-4c3c-963a-ecd885a24310</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>36a70af2-a4a3-4a29-97a0-786f9f13e2f9</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'/5S6MFFLcE4mlsixtc6/Tg=='</defaultValue>
+      <description></description>
+      <id>bbee2172-9606-42f4-aec9-5cb5101b23ab</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>C%%Users%slk.WSLK1FFTRFW-11.002%Katalon Studio%Login Script%Login Script.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-1849481127772492801.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SLKWSL~1.002/AppData/Local/Temp/Katalon/Web Services/kat-1849481127772492801.groovy</location>
+		</link>
+		<link>
+			<name>kat-2994131754786176422.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SLKWSL~1.002/AppData/Local/Temp/Katalon/Web Services/kat-2994131754786176422.groovy</location>
+		</link>
+		<link>
+			<name>kat-3273266039322246846.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SLKWSL~1.002/AppData/Local/Temp/Katalon/Web Services/kat-3273266039322246846.groovy</location>
+		</link>
+		<link>
+			<name>kat-4465268561664279928.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SLKWSL~1.002/AppData/Local/Temp/Katalon/Web Services/kat-4465268561664279928.groovy</location>
+		</link>
+		<link>
+			<name>kat-6505611140188474872.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SLKWSL~1.002/AppData/Local/Temp/Katalon/Web Services/kat-6505611140188474872.groovy</location>
+		</link>
+		<link>
+			<name>kat-8524812149041680670.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SLKWSL~1.002/AppData/Local/Temp/Katalon/Web Services/kat-8524812149041680670.groovy</location>
+		</link>
+		<link>
+			<name>kat-9109460515768184484.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SLKWSL~1.002/AppData/Local/Temp/Katalon/Web Services/kat-9109460515768184484.groovy</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1532420583273</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1532420583273</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1532431757069</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1532431757069</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Demo1,Firefox 60.0,,2018-07-24 15:05:49,2018-07-24 15:06:22,32.277s,PASSED
+,,,,,,
+Test Cases/Logi_Script/Demo 1,Firefox 60.0,This is for login_Manually,2018-07-24 15:05:49,2018-07-24 15:06:21,31.721s,PASSED
+openBrowser,Firefox 60.0,,2018-07-24 15:05:50,2018-07-24 15:06:18,28.004s,PASSED
+navigateToUrl,Firefox 60.0,,2018-07-24 15:06:18,2018-07-24 15:06:19,1.244s,PASSED
+click,Firefox 60.0,,2018-07-24 15:06:19,2018-07-24 15:06:20,0.619s,PASSED
+setText,Firefox 60.0,,2018-07-24 15:06:20,2018-07-24 15:06:20,0.082s,PASSED
+setEncryptedText,Firefox 60.0,,2018-07-24 15:06:20,2018-07-24 15:06:20,0.267s,PASSED
+click,Firefox 60.0,,2018-07-24 15:06:20,2018-07-24 15:06:21,1.161s,PASSED
+getText,Firefox 60.0,,2018-07-24 15:06:21,2018-07-24 15:06:21,0.053s,PASSED

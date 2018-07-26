@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Day 2,,day 2,2018-07-25 10:59:09,2018-07-25 11:00:06,56.802s,ERROR
+,,,,,,
+Test Cases/Day 2_Traing/Demo1_Day2,,,2018-07-25 10:59:10,2018-07-25 10:59:38,28.249s,ERROR
+openBrowser,,,2018-07-25 10:59:10,2018-07-25 10:59:38,27.855s,PASSED
+navigateToUrl,,,2018-07-25 10:59:38,2018-07-25 10:59:38,0.015s,PASSED
+,,,,,,
+Test Cases/Day 2_Traing/Demo2,,demo,2018-07-25 10:59:38,2018-07-25 11:00:06,27.660s,ERROR
+openBrowser,,,2018-07-25 10:59:38,2018-07-25 11:00:06,27.497s,PASSED
+navigateToUrl,,,2018-07-25 11:00:06,2018-07-25 11:00:06,0.000s,PASSED

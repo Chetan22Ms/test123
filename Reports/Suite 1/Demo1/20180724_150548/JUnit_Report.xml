@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Demo1" time="32" tests="1" failures="0" errors="0">
+   <testsuite name="Demo1" tests="1" failures="0" errors="0" time="32" timestamp="2018-07-24 15:05:49" hostname="slk - WSLK1FFTRFW-11" id="Test Suites/Suite 1/Demo1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Suite 1\\Demo1\\20180724_150548"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Suite 1\\Demo1\\20180724_150548\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-11"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 60.0"/>
+         <property name="hostAddress" value="10.10.10.20"/>
+         <property name="sessionId" value="56462864-3740-4016-84de-14ed0ef2302d"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Logi_Script/Demo 1" classname="Test Cases/Logi_Script/Demo 1" status="PASSED">
+         <system-out><![CDATA[2018-07-24 15:05:49 - [TEST_CASE][PASSED] - Test Cases/Logi_Script/Demo 1: Test Cases/Logi_Script/Demo 1
+
+2018-07-24 15:05:50 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 15:06:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 15:06:18 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 15:06:19 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 15:06:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-24 15:06:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-24 15:06:20 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/input_username'
+
+2018-07-24 15:06:20 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/input_username'
+
+2018-07-24 15:06:20 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/input_password'
+
+2018-07-24 15:06:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/input_password'
+
+2018-07-24 15:06:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-24 15:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-24 15:06:21 - [TEST_STEP][PASSED] - getText: Text of object 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare C' is: 'Tokyo CURA Healthcare Center
+Hongkong CURA Healthcare Center
+Seoul CURA Healthcare Center'
+
+2018-07-24 15:06:21 - [MESSAGE][PASSED] - Text of object 'Object Repository/Demo1_Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare C' is: 'Tokyo CURA Healthcare Center
+Hongkong CURA Healthcare Center
+Seoul CURA Healthcare Center']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 15:05:49 - [TEST_SUITE][PASSED] - Demo1: Test Cases/Logi_Script/Demo 1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

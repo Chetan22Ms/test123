@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>demo</description>
+   <name>Demo 4</name>
+   <tag>Training</tag>
+   <comment></comment>
+   <testCaseGuid>d1e0d320-af1b-4834-8d92-241d685e201e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>234fcbcb-d606-4147-b0bc-dc386cf9410e</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>76126902-9401-4c04-bd54-f80bde8ce0d5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

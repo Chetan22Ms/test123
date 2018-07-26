@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Jenkin_Suite_Demo1,Chrome 67.0.3396.99,,2018-07-26 12:44:00,2018-07-26 12:45:24,1m - 23.759s,PASSED
+,,,,,,
+Test Cases/Jenkins/Jenkins_Demo1,Chrome 67.0.3396.99,,2018-07-26 12:44:01,2018-07-26 12:45:24,1m - 23.412s,PASSED
+openBrowser,Chrome 67.0.3396.99,,2018-07-26 12:44:01,2018-07-26 12:44:27,26.168s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-07-26 12:44:27,2018-07-26 12:44:29,1.763s,PASSED
+click,Chrome 67.0.3396.99,,2018-07-26 12:44:29,2018-07-26 12:44:29,0.118s,PASSED
+click,Chrome 67.0.3396.99,,2018-07-26 12:44:29,2018-07-26 12:45:23,54.373s,PASSED
+closeBrowser,Chrome 67.0.3396.99,,2018-07-26 12:45:23,2018-07-26 12:45:24,0.704s,PASSED

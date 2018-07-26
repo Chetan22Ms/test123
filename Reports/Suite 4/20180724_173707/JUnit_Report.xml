@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suite 4" time="43" tests="1" failures="0" errors="0">
+   <testsuite name="Suite 4" tests="1" failures="0" errors="0" time="43" timestamp="2018-07-24 17:37:08" hostname="slk - WSLK1FFTRFW-11" id="Test Suites/Suite 4">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Suite 4\\20180724_173707"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Suite 4\\20180724_173707\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-11"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 60.0"/>
+         <property name="hostAddress" value="10.10.10.20"/>
+         <property name="sessionId" value="a4a73619-f461-41d1-acf1-bc6b78ba8655"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Katalon Recoder 1" classname="Test Cases/Katalon Recoder 1" status="PASSED">
+         <system-out><![CDATA[2018-07-24 17:37:08 - [TEST_CASE][PASSED] - Test Cases/Katalon Recoder 1: Test Cases/Katalon Recoder 1
+
+2018-07-24 17:37:09 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://www.katalon.com/'
+
+2018-07-24 17:37:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com/'
+
+2018-07-24 17:37:48 - [TEST_STEP][PASSED] - Statement - driver = com.kms.katalon.core.webui.driver.DriverFactory.getWebDriver(): null
+
+2018-07-24 17:37:49 - [TEST_STEP][PASSED] - Statement - baseUrl = "https://www.katalon.com/": null
+
+2018-07-24 17:37:49 - [TEST_STEP][PASSED] - Statement - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl): null
+
+2018-07-24 17:37:49 - [TEST_STEP][PASSED] - Statement - selenium.open("https://www.katalon.com/sign-up/"): null
+
+2018-07-24 17:37:50 - [TEST_STEP][PASSED] - Statement - selenium.type("id=user_login", "svgsfg"): null
+
+2018-07-24 17:37:50 - [TEST_STEP][PASSED] - Statement - selenium.click("id=user_email"): null
+
+2018-07-24 17:37:50 - [TEST_STEP][PASSED] - Statement - selenium.type("id=user_email", "drgh"): null
+
+2018-07-24 17:37:50 - [TEST_STEP][PASSED] - Statement - selenium.click("id=user_pass"): null
+
+2018-07-24 17:37:51 - [TEST_STEP][PASSED] - Statement - selenium.type("id=user_pass", "ethyet"): null
+
+2018-07-24 17:37:51 - [TEST_STEP][PASSED] - Statement - selenium.click("id=signup-btn"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 17:37:08 - [TEST_SUITE][PASSED] - Suite 4: Test Cases/Katalon Recoder 1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

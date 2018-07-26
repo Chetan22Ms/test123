@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Demo 3</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://opensource-demo.orangehrmlive.com/'</initValue>
+      <name>URL1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Admin'</initValue>
+      <name>name2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin123'</initValue>
+      <name>password3</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

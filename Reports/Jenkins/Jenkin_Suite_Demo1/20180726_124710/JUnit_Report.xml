@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Jenkin_Suite_Demo1" time="40" tests="1" failures="0" errors="0">
+   <testsuite name="Jenkin_Suite_Demo1" tests="1" failures="0" errors="0" time="40" timestamp="2018-07-26 12:47:11" hostname="slk - WSLK1FFTRFW-11" id="Test Suites/Jenkins/Jenkin_Suite_Demo1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Jenkins\\Jenkin_Suite_Demo1\\20180726_124710"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-11.002\\Katalon Studio\\Login Script\\Reports\\Jenkins\\Jenkin_Suite_Demo1\\20180726_124710\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-11"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.10.10.20"/>
+         <property name="sessionId" value="9fea0d2c2d831306af1244a591a76ae8"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Jenkins/Jenkins_Demo1" classname="Test Cases/Jenkins/Jenkins_Demo1" status="PASSED">
+         <system-out><![CDATA[2018-07-26 12:47:11 - [TEST_CASE][PASSED] - Test Cases/Jenkins/Jenkins_Demo1: Test Cases/Jenkins/Jenkins_Demo1
+
+2018-07-26 12:47:11 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-26 12:47:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-26 12:47:37 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/bootstrap-date-picker-demo.html' successfully
+
+2018-07-26 12:47:39 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/bootstrap-date-picker-demo.html' successfully
+
+2018-07-26 12:47:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Jenkins_Demo1/Page_Selenium Easy - Best Demo webs/a_Input Forms' is clicked on
+
+2018-07-26 12:47:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Jenkins_Demo1/Page_Selenium Easy - Best Demo webs/a_Input Forms' is clicked on
+
+2018-07-26 12:47:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Jenkins_Demo1/Page_Selenium Easy - Best Demo webs/a_Simple Form Demo' is clicked on
+
+2018-07-26 12:47:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Jenkins_Demo1/Page_Selenium Easy - Best Demo webs/a_Simple Form Demo' is clicked on
+
+2018-07-26 12:47:51 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-26 12:47:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-26 12:47:11 - [TEST_SUITE][PASSED] - Jenkin_Suite_Demo1: Test Cases/Jenkins/Jenkins_Demo1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

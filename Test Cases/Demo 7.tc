@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>links validation</description>
+   <name>Demo 7</name>
+   <tag>links</tag>
+   <comment></comment>
+   <testCaseGuid>813cd0ce-4167-4e03-bf7d-c9d87b33b439</testCaseGuid>
+</TestCaseEntity>

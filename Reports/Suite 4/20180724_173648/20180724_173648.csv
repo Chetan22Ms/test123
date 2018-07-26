@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Suite 4,Firefox 60.0,Recoder,2018-07-24 17:36:50,2018-07-24 17:37:30,40.682s,PASSED
+,,,,,,
+Test Cases/Katalon Recoder 1,Firefox 60.0,Record option,2018-07-24 17:36:50,2018-07-24 17:37:30,40.101s,PASSED
+openBrowser,Firefox 60.0,,2018-07-24 17:36:50,2018-07-24 17:37:27,36.986s,PASSED
+Statement - driver = com.kms.katalon.core.webui.driver.DriverFactory.getWebDriver(),Firefox 60.0,,2018-07-24 17:37:27,2018-07-24 17:37:27,0.016s,PASSED
+"Statement - baseUrl = ""https://www.katalon.com/""",Firefox 60.0,,2018-07-24 17:37:27,2018-07-24 17:37:27,0.001s,PASSED
+"Statement - selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)",Firefox 60.0,,2018-07-24 17:37:27,2018-07-24 17:37:27,0.093s,PASSED
+"Statement - selenium.open(""https://www.katalon.com/sign-up/"")",Firefox 60.0,,2018-07-24 17:37:27,2018-07-24 17:37:29,1.678s,PASSED
+"Statement - selenium.type(""id=user_login"", ""svgsfg"")",Firefox 60.0,,2018-07-24 17:37:29,2018-07-24 17:37:29,0.076s,PASSED
+"Statement - selenium.click(""id=user_email"")",Firefox 60.0,,2018-07-24 17:37:29,2018-07-24 17:37:29,0.259s,PASSED
+"Statement - selenium.type(""id=user_email"", ""drgh"")",Firefox 60.0,,2018-07-24 17:37:29,2018-07-24 17:37:29,0.056s,PASSED
+"Statement - selenium.click(""id=user_pass"")",Firefox 60.0,,2018-07-24 17:37:29,2018-07-24 17:37:30,0.238s,PASSED
+"Statement - selenium.type(""id=user_pass"", ""ethyet"")",Firefox 60.0,,2018-07-24 17:37:30,2018-07-24 17:37:30,0.071s,PASSED
+"Statement - selenium.click(""id=signup-btn"")",Firefox 60.0,,2018-07-24 17:37:30,2018-07-24 17:37:30,0.247s,PASSED
