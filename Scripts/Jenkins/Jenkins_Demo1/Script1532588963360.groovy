@@ -29,3 +29,5 @@ WebUI.click(findTestObject('Object Repository/Jenkins_Demo1/Page_Selenium Easy -
 
 WebUI.closeBrowser()
 
+WebUI.click(findTestObject(null))
+
